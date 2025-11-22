@@ -1,0 +1,5 @@
+{
+  "name": "CalliAI - Smart Chinese Calligraphy Tutor",
+  "description": "An interactive Chinese handwriting practice app that uses AI vision to analyze your stroke order, balance, and aesthetics in real-time.",
+  "requestFramePermissions": []
+}
