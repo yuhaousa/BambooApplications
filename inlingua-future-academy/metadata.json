@@ -1,0 +1,7 @@
+{
+  "name": "inlingua Future Academy",
+  "description": "A futuristic reimagining of inlingua Singapore, featuring AI-driven language learning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
